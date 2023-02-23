@@ -1,5 +1,5 @@
 # Blog de Notícias
-Trabalho desenvolvido em squad para o módulo 5 do curso de **Desenvolvedor Fullstack** - Programadores Cariocas
+Trabalho desenvolvido em squad para o módulo 5 do curso de **Desenvolvedor Fullstack** - Programadores Cariocas.
 
 ### Colaboradores
 - [Beatriz Fidelis](https://github.com/fidelisbia)
